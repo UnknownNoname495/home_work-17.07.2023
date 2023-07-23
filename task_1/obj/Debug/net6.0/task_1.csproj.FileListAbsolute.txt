@@ -1,0 +1,15 @@
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\bin\Debug\net6.0\task_1.exe
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\bin\Debug\net6.0\task_1.deps.json
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\bin\Debug\net6.0\task_1.runtimeconfig.json
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\bin\Debug\net6.0\task_1.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\bin\Debug\net6.0\task_1.pdb
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.csproj.AssemblyReference.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.AssemblyInfoInputs.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.AssemblyInfo.cs
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.csproj.CoreCompileInputs.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\refint\task_1.dll
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.pdb
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\task_1.genruntimeconfig.cache
+G:\GeekBrains\C_Sharp\home_works_CSharp\home_work 17.07.2023\task_1\obj\Debug\net6.0\ref\task_1.dll
