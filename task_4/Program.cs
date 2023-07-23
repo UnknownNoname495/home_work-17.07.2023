@@ -7,8 +7,10 @@
 // 27(0,0,1) 90(0,1,1)
 // 26(1,0,1) 55(1,1,1)
 
-
-int[,,] matrix3D = new int[2, 2, 2];
+int x = 2;
+int y = 2;
+int z = 2;
+int[,,] matrix3D = new int[x, y, z];
 GetMatrix(matrix3D);
 PrintMatrix(matrix3D);
 
