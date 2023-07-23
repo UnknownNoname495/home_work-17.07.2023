@@ -1,4 +1,4 @@
-﻿// Задача 56: Задайте прямоугольный двумерный массив. 
+// Задача 56: Задайте прямоугольный двумерный массив. 
 // Напишите программу, которая будет находить строку с наименьшей суммой элементов.
 
 // Например, задан массив:
@@ -54,12 +54,12 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-int RowSum(int[,] array, int i)
+int RowSum(int[,] matr, int i)
 {
-    int sum = array[i, 0];
-    for (int j = 1; j < array.GetLength(1); j++)
+    int sum = matr[i, 0];
+    for (int j = 1; j < matr.GetLength(1); j++)
     {
-        sum += array[i, j];
+        sum += matr[i, j];
     }
     Console.WriteLine($"В строке {i + 1} сумма элементов: {sum}");
     return sum;
